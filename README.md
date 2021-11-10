@@ -25,12 +25,12 @@ Javascript, HTML, CSS, MongoDB, ExpressJS, ReactJS, NextJS
 
 ## 💪 Projects I'm proud of
 
-#### 📢 [Igniters](globtrotters-igniters.herokuapp.com)
+#### 📢 [Igniters](https://globtrotters-igniters.herokuapp.com/)
 Theme: Repository for women’s rights organizations
 
 Tech stack: MERN Stack, HTML5, CSS, Bootstrap, Mapbox API
 
-#### 📚 [Boogle](globtrottersboogle.herokuapp.com)
+#### 📚 [Boogle](https://globtrottersboogle.herokuapp.com/)
 Theme: Book search and personal bookshelf app
 
 Tech stack: NodeJS, ExpressJS, Axios, MongoDB, Handlebars, CSS, Bootstrap, Google Books API
