@@ -16,8 +16,6 @@ I’m a full-stack web developer eager to bring energy and focus to a collaborat
 
 😄 Pronouns: she/her
 
-⚡️ Fun fact: At the start of 2021 I didn't know that Java is to JavaScript as car is to carpet...
-
 
 ## 🛠 Skills
 Javascript, HTML, CSS, MongoDB, ExpressJS, ReactJS, NextJS
